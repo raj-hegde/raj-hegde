@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raj-hegde
 - 👀 I’m interested in Data science, ML and Financial Markets
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any projects related to ML and Quant Finance
+- 💞️ I’m looking to collaborate on any projects on ML and Quant Finance
 - 📫 How to reach me rajeevhegde@zohomail.in
 
 <!---
