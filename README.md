@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @raj-hegde
-- 👀 I’m interested in Data science, ML, Financial Markets and web development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on web development projects 
+- 👋 Hi, I’m @raj-hegde 
 - 📫 How to reach me rajeevhegde11@gmail.com
 
 <!---
